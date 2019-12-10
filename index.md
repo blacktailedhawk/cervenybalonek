@@ -1,11 +1,15 @@
 <p align="center">
    <img src="cervenybalonek.png">
 </p>
+## Prosinec 2019
 
+9.12.2019 - Salám svobody se krájí dál, už ho moc nezbejvá - [EU nařídila sledovat už od roku 2020 spotřebu každého řidiče](http://www.autoforum.cz/predstaveni/eu-naridila-sledovat-od-roku-2020-spotrebu-kazdeho-ridice-nekteri-na-to-doplati/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu&fbclid=IwAR0SaypAUu5HeAF_kR1FIRaACko1HTcb3wcPIjZ05x0JfnlqOteFWOGPl20)
+5.12.2019 - Kdo by vám kradl bylinky když ne policie? Jedličkárna jako bonus. [Zasadila si na zahradě konopí, skončila v blázinci](https://www.novinky.cz/domaci/clanek/zasadila-si-na-zahrade-konopi-skoncila-v-blazinci-40306030?dop-ab-variant=102&seq-no=3&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null&fbclid=IwAR2JTH4a4M41_5WWLE8yxw_ZbqIPl2QEjFnf4ym84vaI6wQwdO29jiv0OoQ)
 
 ## Listopad 2019
 
 30.11.2019 - Policie nás ochrání před zloději - [Policistka dávala zlodějkám tipy na krádeže](https://www.novinky.cz/krimi/clanek/policistka-davala-zlodejkam-tipy-na-kradeze-40305361?dop-ab-variant=0&seq-no=2&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null)
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
