@@ -1,4 +1,8 @@
-![Cerveny Balonek](cervenybalonek.png)
+<p align="center">
+  ![Cerveny Balonek](cervenybalonek.png)
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
 
 ## Welcome to GitHub Pages
 
