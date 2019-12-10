@@ -9,7 +9,9 @@ You can use the [editor on GitHub](https://github.com/blacktailedhawk/cervenybal
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 30. 11. 2019 - Policie nás ochrání před zloději
+
+[Policistka dávala zlodějkám tipy na krádeže](https://www.novinky.cz/krimi/clanek/policistka-davala-zlodejkam-tipy-na-kradeze-40305361?dop-ab-variant=0&seq-no=2&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
