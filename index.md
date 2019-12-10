@@ -1,6 +1,5 @@
 <p align="center">
-  ![Cerveny Balonek](cervenybalonek.png)
-  <img src="http://s.4cdn.org/image/title/105.gif">
+   <img src="cervenybalonek.png">
 </p>
 
 
