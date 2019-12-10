@@ -9,6 +9,8 @@
 
 5.12.2019 - Kdo by vám kradl bylinky, když ne policie? Jedličkárna jako bonus. [Zasadila si na zahradě konopí, skončila v blázinci](https://www.novinky.cz/domaci/clanek/zasadila-si-na-zahrade-konopi-skoncila-v-blazinci-40306030?dop-ab-variant=102&seq-no=3&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null&fbclid=IwAR2JTH4a4M41_5WWLE8yxw_ZbqIPl2QEjFnf4ym84vaI6wQwdO29jiv0OoQ)
 
+3.12.2019 - Bez dohledu státu už ani vlakem za tetou do Rousínova - [Ministerstvo dopravy chce data ze železnic. Chystá se databáze cestujících včetně jména, fotografie a dalších údajů](https://www.zive.cz/clanky/ministerstvo-dopravy-chce-data-ze-zeleznic-chysta-se-databaze-cestujicich-vcetne-jmena-fotografie-a-dalsich-udaju/sc-3-a-201466/default.aspx?fbclid=IwAR3Z291mNZHGooB0zCKfv4gZHAi3HOKEv3zax4V-Jw1wn6Sizx-uuteIl7o)
+
 ## Listopad 2019
 
 30.11.2019 - Policie nás ochrání před zloději - [Policistka dávala zlodějkám tipy na krádeže](https://www.novinky.cz/krimi/clanek/policistka-davala-zlodejkam-tipy-na-kradeze-40305361?dop-ab-variant=0&seq-no=2&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null)
