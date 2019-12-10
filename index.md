@@ -1,4 +1,4 @@
-![Cerveny Balonek](istockphoto-850172702-612x612.jpg)
+![Cerveny Balonek](cervenybalonek.png)
 
 ## Welcome to GitHub Pages
 
