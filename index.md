@@ -3,15 +3,10 @@
 </p>
 
 
-## Welcome to GitHub Pages
+## Listopad 2019
 
-You can use the [editor on GitHub](https://github.com/blacktailedhawk/cervenybalonek/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+30.11.2019 - Policie nás ochrání před zloději - [Policistka dávala zlodějkám tipy na krádeže](https://www.novinky.cz/krimi/clanek/policistka-davala-zlodejkam-tipy-na-kradeze-40305361?dop-ab-variant=0&seq-no=2&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 30. 11. 2019 - Policie nás ochrání před zloději
-
-[Policistka dávala zlodějkám tipy na krádeže](https://www.novinky.cz/krimi/clanek/policistka-davala-zlodejkam-tipy-na-kradeze-40305361?dop-ab-variant=0&seq-no=2&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
