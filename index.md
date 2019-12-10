@@ -1,4 +1,4 @@
-![Cerveny Balonek](https://github.com/blacktailedhawk/cervenybalonek/blob/master/istockphoto-850172702-612x612.jpg)
+![Cerveny Balonek](istockphoto-850172702-612x612.jpg)
 
 ## Welcome to GitHub Pages
 
