@@ -7,7 +7,7 @@
 
 9.12.2019 - Salám svobody se krájí dál, už ho moc nezbejvá - [EU nařídila sledovat už od roku 2020 spotřebu každého řidiče](http://www.autoforum.cz/predstaveni/eu-naridila-sledovat-od-roku-2020-spotrebu-kazdeho-ridice-nekteri-na-to-doplati/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu&fbclid=IwAR0SaypAUu5HeAF_kR1FIRaACko1HTcb3wcPIjZ05x0JfnlqOteFWOGPl20)
 
-9.12.2019 - Já jsem úředník z Chotěboře a tatínek vám vyhlásí válku [Oslem měsíce prosince Jakub Carmda](https://paragraphos.pecina.cz/all/uvahy-a-komentare/oslem-mesice-prosince-jakub-carmda)
+9.12.2019 - Zanadávat si na vrchnost? Tu máš přes prsty, ksindle [Oslem měsíce prosince Jakub Camrda](https://paragraphos.pecina.cz/all/uvahy-a-komentare/oslem-mesice-prosince-jakub-carmda)
 
 7.12.2019 - Hrála si na Dušína a stát s ní vyjebal - [Nálezkyni mincí vyplatí almužnu. Je to podle tabulek, brání se kraj](https://www.idnes.cz/pardubice/zpravy/nalezne-nalez-minci-vychodoceske-muzeum-pardubicky-kraj-poklad-chocen.A191206_123349_pardubice-zpravy_lati?)
 
