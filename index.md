@@ -20,9 +20,13 @@
 
 3.12.2019 - Bez dohledu státu už ani vlakem za tetou do Rousínova - [Ministerstvo dopravy chce data ze železnic. Chystá se databáze cestujících včetně jména, fotografie a dalších údajů](https://www.zive.cz/clanky/ministerstvo-dopravy-chce-data-ze-zeleznic-chysta-se-databaze-cestujicich-vcetne-jmena-fotografie-a-dalsich-udaju/sc-3-a-201466/default.aspx?fbclid=IwAR3Z291mNZHGooB0zCKfv4gZHAi3HOKEv3zax4V-Jw1wn6Sizx-uuteIl7o)
 
-
+<p align="center">
+      --------------------------------------
+</p>
 >[Na daních platíme ~50% vydělaných peněz](https://www.nedanim.cz/kolik-ve-skutecnosti-platime-na-danich/) bez ohledu na to, které služby státu chceme využívat. A ty které chceme, často stejně stojí za hovno.
-
+<p align="center">
+      --------------------------------------
+</p>
 
 ## Listopad 2019
 
