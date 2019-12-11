@@ -23,7 +23,7 @@
 <p align="center">
       --------------------------------------
 </p>
->[Na daních platíme ~50% vydělaných peněz](https://www.nedanim.cz/kolik-ve-skutecnosti-platime-na-danich/) bez ohledu na to, které služby státu chceme využívat. A ty které chceme, často stejně stojí za hovno.
+>[Na daních platíme ~50% vydělaných peněz](https://www.nedanim.cz/kolik-ve-skutecnosti-platime-na-danich/) <span style="color:blue">bez ohledu na to, které služby státu chceme využívat. A ty které chceme, často stejně stojí za hovno.</span>
 <p align="center">
       --------------------------------------
 </p>
