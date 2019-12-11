@@ -3,6 +3,8 @@
 </p>
 ## Prosinec 2019
 
+11.12.2019 - Na Bureše a další malý ryby není čas kvůli velkým dotačním podvodníkům [Nesprávně použil dotaci, starosta Batelova musí teď platit desetitisíce](https://www.idnes.cz/jihlava/zpravy/soud-batelov-kanalizace-starosta-jiri-dolezal-pokuta-dotace-vysocina-trest.A191211_104925_jihlava-zpravy_mv)
+
 11.12.2019 - Starosta pochybil a nepřibral policajty do kšeftíku - [Policie zadržela kvůli radarům ve Varnsdorfu tři lidi, nejspíš i starostu](https://www.idnes.cz/usti/zpravy/varnsdorf-radary-zadrzeni-policie-starosta.A191211_084534_usti-zpravy_alh)
 
 10.12.2019 - Na ochranu života a zdraví tu máme policii. Oh, wait. - [Střelec v ostravské nemocnici zabil šest lidí. Policie ho našla, je po smrti](https://www.idnes.cz/ostrava/zpravy/strelba-ostrava-nemocnice-policie-zasah.A191210_081440_ostrava-zpravy_klu)
