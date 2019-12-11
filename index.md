@@ -3,6 +3,8 @@
 </p>
 ## Prosinec 2019
 
+11.12.2019 - Starosta pochybil a nepřibral policajty do kšeftíku - [Policie zadržela kvůli radarům ve Varnsdorfu tři lidi, nejspíš i starostu](https://www.idnes.cz/usti/zpravy/varnsdorf-radary-zadrzeni-policie-starosta.A191211_084534_usti-zpravy_alh)
+
 10.12.2019 - Na ochranu života a zdraví tu máme policii. Oh, wait. - [Střelec v ostravské nemocnici zabil šest lidí. Policie ho našla, je po smrti](https://www.idnes.cz/ostrava/zpravy/strelba-ostrava-nemocnice-policie-zasah.A191210_081440_ostrava-zpravy_klu)
 
 9.12.2019 - Salám svobody se krájí dál, už ho moc nezbejvá - [EU nařídila sledovat už od roku 2020 spotřebu každého řidiče](http://www.autoforum.cz/predstaveni/eu-naridila-sledovat-od-roku-2020-spotrebu-kazdeho-ridice-nekteri-na-to-doplati/?utm_source=www.seznam.cz&utm_medium=sekce-z-internetu&fbclid=IwAR0SaypAUu5HeAF_kR1FIRaACko1HTcb3wcPIjZ05x0JfnlqOteFWOGPl20)
