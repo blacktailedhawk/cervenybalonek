@@ -20,10 +20,7 @@
 
 3.12.2019 - Bez dohledu státu už ani vlakem za tetou do Rousínova - [Ministerstvo dopravy chce data ze železnic. Chystá se databáze cestujících včetně jména, fotografie a dalších údajů](https://www.zive.cz/clanky/ministerstvo-dopravy-chce-data-ze-zeleznic-chysta-se-databaze-cestujicich-vcetne-jmena-fotografie-a-dalsich-udaju/sc-3-a-201466/default.aspx?fbclid=IwAR3Z291mNZHGooB0zCKfv4gZHAi3HOKEv3zax4V-Jw1wn6Sizx-uuteIl7o)
 
-<p align="center">
-      --------------------------------------
-</p>
-<p align="left">
+<p align="right">
    <img src="cerven.png" width="200">
    <br>Do června vyděláváme na stát
 </p>
