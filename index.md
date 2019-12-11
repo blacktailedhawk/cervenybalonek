@@ -24,7 +24,7 @@
       --------------------------------------
 </p>
 <p align="left">
-   <img src="cerven.png">
+   <img src="cerven.png" width="200">
 </p>
 >[Na daních platíme ~50% vydělaných peněz](https://www.nedanim.cz/kolik-ve-skutecnosti-platime-na-danich/) <span style="color:red">bez ohledu na to, které služby státu chceme využívat. A ty, které chceme, často stejně stojí za hovno.</span>
 
