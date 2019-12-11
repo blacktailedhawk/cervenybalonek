@@ -1,6 +1,7 @@
 <p align="center">
    <img src="cervenybalonek.png">
 </p>
+
 ## Prosinec 2019
 
 11.12.2019 - Na Bureše a další malý ryby není čas kvůli velkým dotačním podvodníkům [Nesprávně použil dotaci, starosta Batelova musí teď platit desetitisíce](https://www.idnes.cz/jihlava/zpravy/soud-batelov-kanalizace-starosta-jiri-dolezal-pokuta-dotace-vysocina-trest.A191211_104925_jihlava-zpravy_mv)
@@ -19,38 +20,10 @@
 
 3.12.2019 - Bez dohledu státu už ani vlakem za tetou do Rousínova - [Ministerstvo dopravy chce data ze železnic. Chystá se databáze cestujících včetně jména, fotografie a dalších údajů](https://www.zive.cz/clanky/ministerstvo-dopravy-chce-data-ze-zeleznic-chysta-se-databaze-cestujicich-vcetne-jmena-fotografie-a-dalsich-udaju/sc-3-a-201466/default.aspx?fbclid=IwAR3Z291mNZHGooB0zCKfv4gZHAi3HOKEv3zax4V-Jw1wn6Sizx-uuteIl7o)
 
+
+>[Na daních platíme ~50% vydělaných peněz](https://www.nedanim.cz/kolik-ve-skutecnosti-platime-na-danich/) bez ohledu na to, které služby státu chceme využívat. A ty které chceme, často stejně stojí za hovno.
+
+
 ## Listopad 2019
 
 30.11.2019 - Policie nás ochrání před zloději - [Policistka dávala zlodějkám tipy na krádeže](https://www.novinky.cz/krimi/clanek/policistka-davala-zlodejkam-tipy-na-kradeze-40305361?dop-ab-variant=0&seq-no=2&source=hp&utm_source=www.seznam.cz&utm_medium=z-boxiku&utm_campaign=null)
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blacktailedhawk/cervenybalonek/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
